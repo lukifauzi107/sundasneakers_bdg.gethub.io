@@ -1,0 +1,24 @@
+body {margin: 0; font-family: sans-serif; background: black;}
+
+.header {margin: 40px; color: white; background: black; height: 70px;}
+
+.navbar {float: right;}
+
+.navbar ul{list-style: none; padding-top: 10px;}
+
+.navbar ul li{display: inline; margin: 10px;}
+
+.navbar ul li a{text-decoration: none; color: white;}
+
+.navbar ul li a:hover {border-bottom: 2px solid white;}.
+
+.gambar {width: 50%; display: grid; grid-template-columns: 1fr 1fr 1fr; margin:auto;}
+
+.gambar .foto img{width: 900px; height: 500px}
+
+.gambar .afoto img{width: 350px; height: 250px}
+
+.catalog {margin: 40px; color: white; background: black; height: 70px;} 
+
+.footer {text-align: center; margin: 40px; color: white; background: black; height: 70px;}
+
